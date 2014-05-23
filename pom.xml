@@ -9,7 +9,7 @@
 
   <groupId>kr.motd.maven</groupId>
   <artifactId>exec-maven-plugin</artifactId>
-  <version>1.0.0.Final-SNAPSHOT</version>
+  <version>1.0.0.Final</version>
   <packaging>maven-plugin</packaging>
 
   <name>exec-maven-plugin</name>
